@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "root",
+    "password": "1106",
     "database": "api_v1",
     "host": "localhost",
     "dialect": "mariadb",
